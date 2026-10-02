@@ -1,0 +1,52 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependency folders
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+# Build and cache output
+.cache/
+.turbo/
+dist/
+build/
+coverage/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep this repo a clean, public-safe template - never commit these
+.env.local
+.env.*.local
+secrets/
+*.secret
+credentials.json
+token.json
+
+# Private working material (raw exports, caches, personal archives)
+marketing-ai-army/twitter history/
+ai-research-cache/
+.hermes/
+.agents/
+.claude/
+skills-lock.json
+*.docx
+*.xlsx
+*.pdf
+
