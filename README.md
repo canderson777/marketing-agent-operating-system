@@ -263,8 +263,21 @@ examples you can copy and replace with your own.
 
 **License:** MIT — use it, fork it, adapt it.
 
-## Bundled creative skills
+## Third-party skills & integrations
 
-`.agents/skills/` ships 8 optional creative skills from Higgsfield — brand kits, image
-generation, product photography, video explainers, websites, and YouTube thumbnails.
-See [NOTICE.md](NOTICE.md) for attribution.
+Some bundled skills and workflows use **third-party services**. They're optional — the
+system runs entirely on markdown without them, and every workflow has a fallback. To use
+an integration you bring **your own account and API access** (no keys are bundled):
+
+| Skill / workflow | What you need |
+|---|---|
+| `.agents/skills/` (8 Higgsfield creative skills) | A **Higgsfield** account + CLI auth (image / video / website generation) |
+| `workflows/beehiiv-integration.md` | A **beehiiv** account + API key (newsletter publishing) |
+| `workflows/meta-integration.md` | A **Meta** Business account with ad-account access |
+| `workflows/clickflow-integration.md` | A **ClickFlow** account + key (SEO reporting) |
+| `workflows/higgsfield-integration.md` | The Higgsfield CLI + auth |
+| `workflows/x-mcp-social-listening-review.md` | An **X (Twitter) API** app / MCP credentials |
+| MailerLite references in brand docs | A **MailerLite** account + API key |
+
+Nothing here is required to run the system, and no credentials are shipped. See
+[NOTICE.md](NOTICE.md) for third-party attribution.
