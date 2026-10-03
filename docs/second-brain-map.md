@@ -31,7 +31,7 @@ The engine is written once and reused. Brand folders are the only thing that cha
 ## Naming Rules
 
 - Dated files everywhere: `YYYY-MM-DD-slug.md` (brand folders) or `YYYY-MM-DD_<brand>_slug.md` (shared `outputs/` tree - brand slug required because every brand shares it).
-- Brand folder names are the canonical brand IDs: `acc-network`, `local-glow-up`, `prep2eat`, `scholarship-dashboard`.
+- Brand folder names are the canonical brand IDs: `acc-network`, `local-glow-up`, `prep2eat`.
 
 ## The Flow of a Piece of Work
 

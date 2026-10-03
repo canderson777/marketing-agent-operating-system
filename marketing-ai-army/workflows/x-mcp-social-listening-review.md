@@ -30,8 +30,8 @@ Before using live X data, gather the brand sources first:
    - `../shared/content-rules.md`
    - the brand's `brand-voice.md` and channel strategy when working on a specific brand
 4. Brand-specific source material:
-   - For My Brand: AI Daily Journal first
-   - For My Brand: My Twitter Post doc or post tracker to avoid duplicates
+   - For a personal brand: its journal/notes doc first
+   - For a personal brand: a post tracker to avoid duplicates
 
 X MCP adds live context. It does not replace brand source-of-truth files.
 
@@ -133,7 +133,7 @@ Output:
 
 Rules:
 - Standalone X posts stay under 280 characters unless the operator asks for a thread.
-- Keep My Brand direct, practical, build-in-public, and specific.
+- Keep personal-brand posts direct, practical, build-in-public, and specific.
 - Avoid fake virality bait.
 
 ### 4. Review
@@ -193,9 +193,9 @@ Never do these without explicit approval:
 - modify bookmarks/folders
 - publish Articles
 
-## My Brand Weekly Use
+## Personal-brand weekly use
 
-For My Brand, the highest-value weekly flow is:
+For a personal brand, the highest-value weekly flow is:
 
 1. Pull the AI Daily Journal.
 2. Pull the My Twitter Post doc or post tracker to avoid duplicates.

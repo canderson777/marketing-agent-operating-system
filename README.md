@@ -214,8 +214,8 @@ marketing-agent-operating-system/
 │  ├─ README.md               how brand folders work
 │  ├─ acc-network/
 │  ├─ local-glow-up/
-│  ├─ prep2eat/
-│  └─ scholarship-dashboard/
+│  └─ prep2eat/
+├─ .agents/skills/            bundled creative skills (see NOTICE.md)
 └─ docs/                      orientation docs for you and your AI
 ```
 
@@ -262,3 +262,9 @@ Early and actively evolving. The structure and workflows are stable; the brand f
 examples you can copy and replace with your own.
 
 **License:** MIT — use it, fork it, adapt it.
+
+## Bundled creative skills
+
+`.agents/skills/` ships 8 optional creative skills from Higgsfield — brand kits, image
+generation, product photography, video explainers, websites, and YouTube thumbnails.
+See [NOTICE.md](NOTICE.md) for attribution.

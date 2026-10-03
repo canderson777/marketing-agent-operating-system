@@ -11,7 +11,6 @@ One engine, many brands. A new client or project means a new folder here, nothin
 | `acc-network` | Daily AI newsletter + blog that teaches beginners to use AI without hype. Live at accnetwork.xyz. | READY |
 | `local-glow-up` | Local-business lead-capture and website-visibility service. Live at localglowup.com. | READY |
 | `prep2eat` | AI recipe / meal-planning app. Pre-launch. | PARTIAL |
-| `scholarship-dashboard` | Scholarship-finder MVP for NY STEM students. Live on Vercel. | READY |
 
 ## Rule
 

@@ -58,13 +58,13 @@ For newsletter-derived or article-led threads:
 - Keep the public issue URL for the final recap/action post.
 - When a carousel or slide deck is repurposed into an X thread, keep a slide-to-source map and include the direct link in the post that corresponds to that slide whenever the slide makes a source-based claim.
 
-- For My Brand, default to rolling two-day plans unless a weekly plan is explicitly requested.
+- For personal brands, default to rolling two-day plans unless a weekly plan is explicitly requested.
 - Include more substantive threads when the source contains a real process, story, comparison, failure, or before/after. Never pad a weak observation into a thread.
 - Include grounded hot takes based on actual work, testing, or journal observations. Never manufacture controversy.
 - Add pointed questions selectively where disagreement or shared experience is natural. Do not append a question to every post or use generic `Thoughts?` bait.
 - Do not copy another creator's phrasing or structure too closely.
 - Do not publish or perform account actions without explicit approval.
-- Use the AI Daily Journal and brand docs as source-of-truth for My Brand; X MCP adds context, not replacement source material.
+- Use the brand's journal/notes docs as source-of-truth for a personal brand; X MCP adds context, not replacement source material.
 - Broad X search currently requires app-only authentication and must not be retried with the user-context connection. If an account-specific fallback fails once, stop X calls and continue from the journal, My Twitter Post, published archives, and local strategy files.
 - Never claim X-wide sentiment without a successful X pull.
 

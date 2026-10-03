@@ -52,7 +52,7 @@ Report exactly what was checked and the result. If something could not be verifi
 ### Step 5: Document the pass
 
 1. Update `docs/ai-handoff.md` - the "Current State" and "Open Items" sections, with today's date.
-2. If the review itself is a marketable proof of work (it usually is), write a proof note in `brands/your-brand/proof-notes/` using the template there. The consultancy sells on these receipts.
+2. If the review itself is a marketable proof of work (it usually is), write a proof note in `brands/<brand>/proof-notes/` using the template there. The consultancy sells on these receipts.
 3. If you discovered a reusable process, add or update a workflow in `workflows/` (see "Harvesting Custom Workflows" in `WORKFLOWS-AND-USAGE.md`).
 
 ### Step 6: Report to the operator

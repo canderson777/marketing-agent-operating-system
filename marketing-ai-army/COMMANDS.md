@@ -32,7 +32,7 @@ Example:
 ```md
 /marketing-system
 
-BRAND: your-brand
+BRAND: acc-network
 PROJECT: Marketing Agent Operating System
 GOAL: Explain or execute a marketing request
 AUDIENCE: Founders, builders, operators
@@ -184,7 +184,7 @@ Use this shape with any command:
 ```md
 /marketing-system
 
-BRAND: [Folder name under brands/ - your-brand, acc-network, local-glow-up, prep2eat, scholarship-dashboard]
+BRAND: [Folder name under brands/ - acc-network, local-glow-up, prep2eat]
 PROJECT: [Business, brand, person, or offer]
 GOAL: [What needs to happen]
 AUDIENCE: [Who this is for]
@@ -205,7 +205,7 @@ OUTPUT: [What deliverable you want back]
 ```md
 /marketing-system
 
-BRAND: your-brand
+BRAND: acc-network
 PROJECT: Marketing Agent Operating System
 GOAL: Announce the system and explain how it works
 AUDIENCE: Founders, builders, and AI-curious operators

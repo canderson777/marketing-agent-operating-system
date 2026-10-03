@@ -43,9 +43,7 @@ token.json
 marketing-ai-army/twitter history/
 ai-research-cache/
 .hermes/
-.agents/
 .claude/
-skills-lock.json
 *.docx
 *.xlsx
 *.pdf

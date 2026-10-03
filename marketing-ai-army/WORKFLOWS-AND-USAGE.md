@@ -27,7 +27,7 @@ Use this file as the quick-start guide for the Marketing Agent Operating System.
 | `workflows/reporting-review.md` | A post-campaign or weekly/monthly performance review with next experiments. |
 | `workflows/x-mcp-social-listening-review.md` | X/Twitter social listening, reply queues, bookmark idea inboxes, and weekly post-performance review using X MCP when connected. |
 | `workflows/run-marketing-request.md` | The default intake: turn any messy request into a routed, brand-aware plan. |
-| `workflows/multi-brand-validation-sprint.md` | Proof that one engine serves all five brands - also the client-onboarding dress rehearsal. |
+| `workflows/multi-brand-validation-sprint.md` | Proof that one engine serves all the example brands - also the client-onboarding dress rehearsal. |
 | `workflows/fable-project-review-loop.md` | An AI reviewing and improving this system itself, with documentation the next model can pick up. |
 
 ## Workflow Order For Most Projects

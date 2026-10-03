@@ -25,4 +25,4 @@ OUTPUT: [What deliverable you want back]
 - Leave blanks when speed matters.
 - The master agent should make labeled assumptions instead of stalling.
 - Use brand files under `../brands/` when they already answer a field.
-- For My Brand, use the AI Daily Journal as the first source of raw content.
+- For a personal brand, use its journal/notes doc as the first source of raw content.

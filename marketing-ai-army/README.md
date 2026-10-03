@@ -68,7 +68,7 @@ Use one of these entry points:
   - `workflows/branded-carousel-workflow.md` - reusable 5–7 slide carousel structure and review workflow.
   - `workflows/meta-integration.md` - Meta campaign execution and reporting playbook.
   - `workflows/x-mcp-social-listening-review.md` - X MCP social listening, reply, bookmark, and weekly review playbook.
-  - `workflows/multi-brand-validation-sprint.md` - prove the one-engine-many-brands model works across all five brands.
+  - `workflows/multi-brand-validation-sprint.md` - prove the one-engine-many-brands model works across all the example brands.
   - `workflows/fable-project-review-loop.md` - how an AI reviews this system (or any project), improves it, and documents the pass.
 - `outputs/` - finished deliverables grouped by asset type.
 
@@ -148,7 +148,7 @@ Place finished work in `outputs/` by asset type:
 - `outputs/ads/`
 - `outputs/reports/`
 
-Filename format (brand slug required - five brands share this tree):
+Filename format (brand slug required - every brand shares this tree):
 
 ```txt
 YYYY-MM-DD_<brand>_short-slug.md

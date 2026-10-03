@@ -25,7 +25,7 @@ Three P's (Person/Pain/Promise)
 ## Where the assets come from (Hermes-native)
 - **Images/logos/product shots** — **OpenAI image model (`gpt-image-1`)** — the
   active backend (verified live 2026-08-24: `images/generations` → HTTP 200,
-  saved test to `brands/your-brand/assets/outputs/`). Prompt drafts are grounded
+  saved test to `brands/<brand>/assets/outputs/`). Prompt drafts are grounded
   in the brand's 3 P's + voice. Key: `OPENAI_API_KEY` in profile `.env`.
 - **Video scripts** — `marketing-ai-army/agents/05-content-marketing/video-script-agent.md`.
 - **YouTube thumbnails** — `PLAN-video-content-skills.md`: reference thumbnails
@@ -94,12 +94,12 @@ folder, and **verified** (image renders, script read, file exists) — not
 described as future work.
 
 ## Current status — YouTube thumbnail proof complete
-- My Brand's audience, Three P's, and beginner-AI positioning are documented.
+- The brand's audience, Three P's, and positioning are documented.
 - Full-length 16:9 reference boards are collected and visually verified under
-  `brands/your-brand/screenshots/full-video-thumbnails/`.
+  `brands/<brand>/screenshots/full-video-thumbnails/`.
 - OpenAI `gpt-image-1` is the verified image backend for generated backgrounds.
 - Three review-only thumbnail examples now exist under
-  `brands/your-brand/assets/outputs/`: the initial My Brand example, Hermes Agent,
+  `brands/<brand>/assets/outputs/`: the initial example, Hermes Agent,
   and OpenAI Codex Platform.
 - The transparent face pack and official-logo sourcing rule are in place.
 

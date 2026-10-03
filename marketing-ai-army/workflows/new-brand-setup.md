@@ -35,7 +35,7 @@ brands/<slug>/
   proof-notes/            # created only when real results exist
   positions/three-ps.md    # required first (via three-ps-template)
 ```
-Mirror the structure that My Brand already uses (`assets/logos`, `assets/outputs`,
+Mirror the standard brand structure (`assets/logos`, `assets/outputs`,
 `Faceshots/`, `screenshots/`) so one asset engine serves every brand.
 
 ## Step 2 — Populate social-able assets (the part that enables posting)

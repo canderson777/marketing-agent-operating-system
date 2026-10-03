@@ -6,7 +6,7 @@
 
 ## When to use
 - the operator shares a strong video and wants to borrow its opening/structure.
-- Planning any YouTube / IG / long-form video for Local Glow Up, My Brand, or ACC.
+- Planning any YouTube / IG / long-form video for one of your brands.
 - Worst-performing-to-better-packaging pass: one video idea, several winning structures to test.
 
 ## Prerequisites
@@ -36,7 +36,7 @@ Distill the reusable shape (the part you can copy without copying the content):
 Rewrite step by step using the operator's topic, keeping the skeleton identical:
 - Hook rewritten with his topic + BRENS
 - Body segments re-mapped to his topic
-- Close/CTA pointed at his route (Local Glow Up → calendly)
+- Close/CTA pointed at the brand's route (e.g. Local Glow Up → its booking link)
 - Always topic-first & tool-agnostic unless the video is explicitly a tool walkthrough
 
 ### 6. Verify
